@@ -1,9 +1,7 @@
-server: "port:9296"
-spring:
-  cloud:
-    gateway:
-      routes:
-        - id: CIBIL_SERVICE
-      uri: http://localhost:9043
-      predicates:
-        - "path=/cibil/**"
+my:
+greeting: hello world!!
+list:
+values: One, Two, Three
+
+
+
