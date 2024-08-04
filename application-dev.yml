@@ -1,5 +1,5 @@
 myservice:
-  greeting: "Hello from the Config Server dev profile!"
+  greeting: "Hello from the Config Server dev environment profile!"
   
         
 eureka:
