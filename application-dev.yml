@@ -1,0 +1,2 @@
+myservice:
+  greeting: "Hello from the Config Server!"
